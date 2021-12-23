@@ -1,3 +1,3 @@
 # PasswordSaver
 
-Takes user input for password and its associated website, encrypts and stores in a csv file.
+Script takes user input for password and its associated website, encrypts and stores in a csv file.
