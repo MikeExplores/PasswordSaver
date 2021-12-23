@@ -1,8 +1,6 @@
 import csv
 import sys
 
-# passwords = [["yahoo","XqffoZeo"],["google","CoIushujSetu"]]
-
 # The password file name to store the passwords to
 passwordFile = "password_Saver\samplePasswordFile"
 # The encryption key for the caesar cypher
