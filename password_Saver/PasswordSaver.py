@@ -1,9 +1,6 @@
 import csv
 import sys
 
-#The password list - We start with it populated for testing purposes
-passwords = [["yahoo","XqffoZeo"],["google","CoIushujSetu"]]
-
 #The password file name to store the passwords to
 passwordFileName = "samplePasswordFile"
 
